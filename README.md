@@ -1,5 +1,5 @@
 # Devops
 My First Repository
 MY Name is venkatesh 
-this is my second Commit
-this is my third commit
+now im starting to learn a new skill 
+today ie april 05,2025 started learning Github 
